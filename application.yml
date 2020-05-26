@@ -12,3 +12,4 @@ spring:
   profiles: test
   application: 
     name: myspringcloud-config-test
+#必须是UTF-8字符集否则报错
